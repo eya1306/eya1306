@@ -24,9 +24,9 @@ I build web apps and small products. Currently learning Symfony and improving my
 ![Stats](https://github-readme-stats.vercel.app/api?username=eya1306&show_icons=true&count_private=true)
 
 ## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/eya-thebty
-- Portfolio: https://your-portfolio.example.com
+- Email: ayathebty13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eya-thebty-553004238/
+- phone: +21653228647
 
 ---
 
