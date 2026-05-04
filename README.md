@@ -1,11 +1,11 @@
 # hi, i'm eya thebty 👋
-**Full-stack Developer** • Laravel • React • PHP • JavaScript  
+**AI Full-stack Developer** 
 📍 Sousse, Tunisia · she/her
 
 ---
 
 ## 🔭 About me
-I build web apps and small products. Currently learning Symfony and improving my backend testing skills. I enjoy turning design into clean, maintainable code and automating workflows.
+I build web apps AI modules , automation workflows and small products. Currently learning Symfony and improving my backend testing skills. I enjoy turning design into clean, maintainable code and automating workflows.
 
 ## 🧰 Tech stack
 - **Backend:** PHP (Laravel, Symfony), Node.js, MySQL
